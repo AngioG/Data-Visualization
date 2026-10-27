@@ -1,2 +1,7 @@
 _old
 _venv
+/data/raw/zenodo/
+/data/processed/aggregated_*
+/data/processed/raw.csv
+/data/processed/daily_indices.csv.gz
+/data/processed/reliability/

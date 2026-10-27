@@ -1,0 +1,745 @@
+AirQualityStation,AirQualityStationType,AirQualityStationArea,Comune,Provincia,Regione,Ripartizione geografica,Longitude,Latitude,Altitude
+STA.IT0063A,industrial,suburban,Piombino,Livorno,Toscana,Centro,10.534167,42.939167,37.0
+STA.IT0187A,traffic,urban,Ferrara,Ferrara,Emilia-Romagna,Nord-est,11.61306,44.8425,8.0
+STA.IT0267A,background,suburban,Tavazzano con Villavesco,Lodi,Lombardia,Nord-ovest,9.414722,45.329444,80.0
+STA.IT0448A,background,urban,Venezia,Venezia,Veneto,Nord-est,12.313889,45.429444,1.0
+STA.IT0459A,background,suburban,Chiaravalle,Ancona,Marche,Centro,13.34194,43.59889,15.0
+STA.IT0460A,traffic,urban,Jesi,Ancona,Marche,Centro,13.245,43.52694,100.0
+STA.IT0461A,industrial,suburban,Falconara Marittima,Ancona,Marche,Centro,13.3875,43.63333,10.0
+STA.IT0462A,industrial,suburban,Falconara Marittima,Ancona,Marche,Centro,13.37056,43.63611,5.0
+STA.IT0463A,industrial,suburban,Falconara Marittima,Ancona,Marche,Centro,13.39,43.62056,90.0
+STA.IT0469A,traffic,urban,Torino,Torino,Piemonte,Nord-ovest,7.6782,45.0758,243.0
+STA.IT0470A,traffic,urban,Torino,Torino,Piemonte,Nord-ovest,7.69534,45.10407,233.0
+STA.IT0477A,traffic,urban,Milano,Milano,Lombardia,Nord-ovest,9.191389,45.495556,122.0
+STA.IT0480A,traffic,urban,Sesto San Giovanni,Milano,Lombardia,Nord-ovest,9.236389,45.533889,137.0
+STA.IT0499A,background,urban,Laces/Latsch,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,10.85906,46.61947,640.0
+STA.IT0502A,traffic,urban,Bolzano/Bozen,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.34183,46.48231,247.0
+STA.IT0505A,background,rural-nearcity,Renon/Ritten,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.43317,46.58967,1770.0
+STA.IT0507A,background,urban,Bressanone/Brixen,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.65408,46.71492,564.0
+STA.IT0508A,background,urban,Brunico/Bruneck,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.94403,46.79735,830.0
+STA.IT0524A,background,urban,Cassano d'Adda,Milano,Lombardia,Nord-ovest,9.516389,45.542222,133.0
+STA.IT0544A,background,suburban,Lugagnano Val d'Arda,Piacenza,Emilia-Romagna,Nord-est,9.83028,44.82389,210.0
+STA.IT0591A,background,urban,Rovereto,Trento,Trentino-Alto Adige/Südtirol,Nord-est,11.03941,45.89244,200.0
+STA.IT0592A,background,urban,Rho,Milano,Lombardia,Nord-ovest,9.04472,45.5225,158.0
+STA.IT0593A,traffic,urban,Pero,Milano,Lombardia,Nord-ovest,9.09028,45.50917,144.0
+STA.IT0594A,traffic,urban,Brescia,Brescia,Lombardia,Nord-ovest,10.22361,45.54083,149.0
+STA.IT0611A,background,urban,Melilli,Siracusa,Sicilia,Isole,15.128831,37.182374,300.0
+STA.IT0614A,background,urban,Priolo Gargallo,Siracusa,Sicilia,Isole,15.190867,37.156119,35.0
+STA.IT0618A,background,urban,Augusta,Siracusa,Sicilia,Isole,15.2205,37.2184,15.0
+STA.IT0620A,background,suburban,Siracusa,Siracusa,Sicilia,Isole,15.262506,37.098447,60.0
+STA.IT0623A,traffic,urban,Corsico,Milano,Lombardia,Nord-ovest,9.10528,45.43222,116.0
+STA.IT0643A,traffic,urban,Alessandria,Alessandria,Piemonte,Nord-ovest,8.612,44.9066,95.0
+STA.IT0663A,background,urban,Schio,Vicenza,Veneto,Nord-est,11.368611,45.714444,190.0
+STA.IT0689A,industrial,rural,Mezzana Bigli,Pavia,Lombardia,Nord-ovest,8.86889,45.06833,73.0
+STA.IT0692A,industrial,urban,Sannazzaro de' Burgondi,Pavia,Lombardia,Nord-ovest,8.90556,45.10167,87.0
+STA.IT0694A,traffic,urban,Cinisello Balsamo,Milano,Lombardia,Nord-ovest,9.22806,45.55139,154.0
+STA.IT0702A,traffic,urban,Reggio nell'Emilia,Reggio nell'Emilia,Emilia-Romagna,Nord-est,10.624444,44.699722,50.0
+STA.IT0703A,background,suburban,Borgo Valsugana,Trento,Trentino-Alto Adige/Südtirol,Nord-est,11.45389,46.05184,380.0
+STA.IT0705A,traffic,urban,Milano,Milano,Lombardia,Nord-ovest,9.195833,45.462778,122.0
+STA.IT0706A,background,urban,Pioltello,Milano,Lombardia,Nord-ovest,9.3275,45.482778,123.0
+STA.IT0707A,background,urban,Bergamo,Bergamo,Lombardia,Nord-ovest,9.643889,45.690278,249.0
+STA.IT0709A,background,urban,Mantova,Mantova,Lombardia,Nord-ovest,10.803333,45.144444,18.0
+STA.IT0721A,traffic,urban,Modena,Modena,Emilia-Romagna,Nord-est,10.90473,44.63605,39.0
+STA.IT0732A,background,urban,Varese,Varese,Lombardia,Nord-ovest,8.80417,45.83611,382.0
+STA.IT0737A,industrial,suburban,Tavernola Bergamasca,Bergamo,Lombardia,Nord-ovest,10.04111,45.71361,291.0
+STA.IT0740A,background,urban,Sarezzo,Brescia,Lombardia,Nord-ovest,10.20083,45.655,274.0
+STA.IT0741A,background,rural,Gambara,Brescia,Lombardia,Nord-ovest,10.299444,45.248889,51.0
+STA.IT0742A,background,suburban,Odolo,Brescia,Lombardia,Nord-ovest,10.38583,45.63944,345.0
+STA.IT0743A,background,urban,Lonato del Garda,Brescia,Lombardia,Nord-ovest,10.480833,45.463333,188.0
+STA.IT0753A,background,suburban,Riva del Garda,Trento,Trentino-Alto Adige/Südtirol,Nord-est,10.84449,45.89147,73.0
+STA.IT0755A,traffic,urban,Forlì,Forlì-Cesena,Emilia-Romagna,Nord-est,12.056389,44.215,26.0
+STA.IT0761A,traffic,urban,Milano,Milano,Lombardia,Nord-ovest,9.1825,45.44917,122.0
+STA.IT0771A,traffic,urban,Como,Como,Lombardia,Nord-ovest,9.08361,45.80444,201.0
+STA.IT0776A,traffic,urban,Lecco,Lecco,Lombardia,Nord-ovest,9.395833,45.849444,214.0
+STA.IT0777A,traffic,urban,Merate,Lecco,Lombardia,Nord-ovest,9.40619194,45.6979596,292.0
+STA.IT0778A,traffic,urban,Treviglio,Bergamo,Lombardia,Nord-ovest,9.591389,45.518333,125.0
+STA.IT0792A,background,rural-nearcity,Santa Lucia del Mela,Messina,Sicilia,Isole,15.275031,38.160495,70.0
+STA.IT0794A,background,suburban,Pace del Mela,Messina,Sicilia,Isole,15.301496,38.183005,100.0
+STA.IT0804A,background,urban,Parma,Parma,Emilia-Romagna,Nord-est,10.33167,44.79361,60.0
+STA.IT0813A,traffic,urban,Gela,Caltanissetta,Sicilia,Isole,14.253618,37.070349,15.0
+STA.IT0815A,background,suburban,Gela,Caltanissetta,Sicilia,Isole,14.284218,37.062217,13.0
+STA.IT0817A,background,urban,Niscemi,Caltanissetta,Sicilia,Isole,14.395552,37.145943,305.0
+STA.IT0825A,traffic,urban,Roma,Roma,Lazio,Centro,12.469563,41.947448,35.0
+STA.IT0828A,traffic,urban,Roma,Roma,Lazio,Centro,12.50895,41.883075,37.0
+STA.IT0832A,traffic,urban,Arezzo,Arezzo,Toscana,Centro,11.87667,43.4625,256.0
+STA.IT0837A,background,urban,Filago,Bergamo,Lombardia,Nord-ovest,9.55639,45.63306,190.0
+STA.IT0839A,background,suburban,Crema,Cremona,Lombardia,Nord-ovest,9.705,45.36722,79.0
+STA.IT0840A,traffic,suburban,Soresina,Cremona,Lombardia,Nord-ovest,9.864167,45.284722,70.0
+STA.IT0842A,industrial,rural,Corte de' Cortesi con Cignone,Cremona,Lombardia,Nord-ovest,10.007222,45.279167,61.0
+STA.IT0846A,industrial,suburban,Rezzato,Brescia,Lombardia,Nord-ovest,10.313056,45.504722,147.0
+STA.IT0852A,traffic,urban,Genova,Genova,Liguria,Nord-ovest,8.82598,44.4255,20.0
+STA.IT0853A,traffic,urban,Genova,Genova,Liguria,Nord-ovest,8.88617,44.41844,20.0
+STA.IT0854A,background,urban,Genova,Genova,Liguria,Nord-ovest,8.92737,44.41816,105.0
+STA.IT0856A,background,urban,Genova,Genova,Liguria,Nord-ovest,8.94101,44.40759,45.0
+STA.IT0858A,background,urban,Genova,Genova,Liguria,Nord-ovest,8.99154,44.39489,85.0
+STA.IT0860A,traffic,urban,Firenze,Firenze,Toscana,Centro,11.23139,43.78583,41.0
+STA.IT0861A,traffic,urban,Firenze,Firenze,Toscana,Centro,11.27222,43.77306,49.0
+STA.IT0862A,background,urban,Firenze,Firenze,Toscana,Centro,11.2875,43.78667,61.0
+STA.IT0863A,traffic,urban,Viterbo,Viterbo,Lazio,Centro,12.109196,42.42212,338.0
+STA.IT0864A,background,urban,Civita Castellana,Viterbo,Lazio,Centro,12.415,42.28917,139.0
+STA.IT0865A,background,urban,Aprilia,Latina,Lazio,Centro,12.653293,41.595363,81.0
+STA.IT0867A,background,urban,Rieti,Rieti,Lazio,Centro,12.857794,42.404687,392.0
+STA.IT0868A,traffic,urban,Latina,Latina,Lazio,Centro,12.89333,41.47139,23.0
+STA.IT0869A,background,urban,Latina,Latina,Lazio,Centro,12.913043,41.464027,18.0
+STA.IT0870A,background,urban,Anagni,Frosinone,Lazio,Centro,13.149795,41.746893,401.0
+STA.IT0871A,traffic,urban,Ferentino,Frosinone,Lazio,Centro,13.265568,41.687898,236.0
+STA.IT0872A,traffic,urban,Ceccano,Frosinone,Lazio,Centro,13.338713,41.571594,134.0
+STA.IT0883A,background,rural,Firenze,Firenze,Toscana,Centro,11.323889,43.789167,195.0
+STA.IT0884A,background,rural,Allumiere,Roma,Lazio,Centro,11.908954,42.157856,532.0
+STA.IT0885A,background,urban,Civitavecchia,Roma,Lazio,Centro,11.802485,42.091593,26.0
+STA.IT0887A,traffic,suburban,Guidonia Montecelio,Roma,Lazio,Centro,12.726623,41.995626,89.0
+STA.IT0888A,industrial,suburban,Colleferro,Roma,Lazio,Centro,13.004056,41.730447,217.0
+STA.IT0889A,background,suburban,Colleferro,Roma,Lazio,Centro,13.009668,41.725005,220.0
+STA.IT0892A,background,urban,Bologna,Bologna,Emilia-Romagna,Nord-est,11.355,44.48333,43.0
+STA.IT0895A,traffic,urban,Ravenna,Ravenna,Emilia-Romagna,Nord-est,12.18667,44.42861,4.0
+STA.IT0897A,traffic,urban,Napoli,Napoli,Campania,Sud,14.22806,40.84444,179.0
+STA.IT0898A,traffic,urban,Napoli,Napoli,Campania,Sud,14.25133,40.85419,46.0
+STA.IT0903A,background,suburban,Castellarano,Reggio nell'Emilia,Emilia-Romagna,Nord-est,10.733889,44.516111,150.0
+STA.IT0906A,traffic,urban,Sondrio,Sondrio,Lombardia,Nord-ovest,9.870556,46.167222,307.0
+STA.IT0908A,background,urban,Bormio,Sondrio,Lombardia,Nord-ovest,10.3725,46.470278,1225.0
+STA.IT0912A,background,urban,Pavia,Pavia,Lombardia,Nord-ovest,9.164722,45.193889,77.0
+STA.IT0934A,traffic,urban,Benevento,Benevento,Campania,Sud,14.78938,41.13146,159.0
+STA.IT0935A,traffic,urban,Avellino,Avellino,Campania,Sud,14.78222,40.92333,382.0
+STA.IT0936A,background,suburban,Avellino,Avellino,Campania,Sud,14.78556,40.91417,357.0
+STA.IT0937A,traffic,urban,Benevento,Benevento,Campania,Sud,14.78833,41.12333,206.0
+STA.IT0938A,traffic,urban,Salerno,Salerno,Campania,Sud,14.80833,40.66667,10.0
+STA.IT0940A,background,urban,Reggio nell'Emilia,Reggio nell'Emilia,Emilia-Romagna,Nord-est,10.664722,44.690833,50.0
+STA.IT0945A,traffic,urban,Prato,Prato,Toscana,Centro,11.10528,43.87472,62.0
+STA.IT0948A,background,urban,Firenze,Firenze,Toscana,Centro,11.24917,43.76528,75.0
+STA.IT0950A,background,urban,Arezzo,Arezzo,Toscana,Centro,11.88889,43.46111,260.0
+STA.IT0952A,background,rural,Roma,Roma,Lazio,Centro,12.266327,41.889451,66.0
+STA.IT0953A,background,urban,Roma,Roma,Lazio,Centro,12.506947,41.932892,50.0
+STA.IT0956A,background,urban,Roma,Roma,Lazio,Centro,12.568652,41.857716,48.0
+STA.IT0957A,background,suburban,Roma,Roma,Lazio,Centro,12.65848,41.929474,56.0
+STA.IT0963A,background,urban,Venezia,Venezia,Veneto,Nord-est,12.262222,45.499167,1.0
+STA.IT0966A,background,urban,Udine,Udine,Friuli-Venezia Giulia,Nord-est,13.240556,46.066111,100.0
+STA.IT0977A,background,rural-remote,La Thuile,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,6.97778,45.72917,1640.0
+STA.IT0978A,traffic,suburban,Morgex,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.03694,45.7575,924.0
+STA.IT0979A,background,rural,Etroubles,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.23528,45.81583,1330.0
+STA.IT0980A,background,suburban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.29889,45.73028,576.0
+STA.IT0983A,background,urban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.32417,45.73583,581.0
+STA.IT0988A,background,rural,Donnas,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.76643,45.5966,371.0
+STA.IT0989A,background,rural,Leonessa,Rieti,Lazio,Centro,12.962063,42.572591,948.0
+STA.IT0991A,background,urban,Alatri,Frosinone,Lazio,Centro,13.338286,41.727296,440.0
+STA.IT0992A,background,rural,Fontechiari,Frosinone,Lazio,Centro,13.674326,41.669172,388.0
+STA.IT0997A,traffic,urban,Bergamo,Bergamo,Lombardia,Nord-ovest,9.661667,45.695687,249.0
+STA.IT1001A,traffic,urban,Lucca,Lucca,Toscana,Centro,10.51222,43.84389,15.0
+STA.IT1010A,traffic,urban,Magenta,Milano,Lombardia,Nord-ovest,8.8925,45.4675,138.0
+STA.IT1011A,traffic,urban,Terni,Terni,Umbria,Centro,12.65083,42.56,128.0
+STA.IT1016A,traffic,urban,Milano,Milano,Lombardia,Nord-ovest,9.198056,45.469722,122.0
+STA.IT1026A,traffic,urban,Busalla,Genova,Liguria,Nord-ovest,8.94675,44.56945,380.0
+STA.IT1029A,traffic,urban,Imola,Bologna,Emilia-Romagna,Nord-est,11.72028,44.35556,42.0
+STA.IT1030A,background,urban,Faenza,Ravenna,Emilia-Romagna,Nord-est,11.87056,44.28333,35.0
+STA.IT1034A,traffic,urban,Meda,Monza e della Brianza,Lombardia,Nord-ovest,9.15694,45.66083,221.0
+STA.IT1037A,background,urban,Trento,Trento,Trentino-Alto Adige/Südtirol,Nord-est,11.1262,46.06293,203.0
+STA.IT1041A,background,suburban,Salerno,Salerno,Campania,Sud,14.77751,40.69536,41.0
+STA.IT1043A,background,urban,Rimini,Rimini,Emilia-Romagna,Nord-est,12.553333,44.0625,6.0
+STA.IT1044A,traffic,urban,Rimini,Rimini,Emilia-Romagna,Nord-est,12.57556,44.05222,3.0
+STA.IT1048A,background,urban,Forlì,Forlì-Cesena,Emilia-Romagna,Nord-est,12.048889,44.219167,29.0
+STA.IT1065A,background,urban,Bassano del Grappa,Vicenza,Veneto,Nord-est,11.736667,45.760833,114.0
+STA.IT1071A,background,suburban,Santa Croce sull'Arno,Pisa,Toscana,Centro,10.771667,43.713056,16.0
+STA.IT1076A,background,suburban,Palermo,Palermo,Sicilia,Isole,13.302198,38.120539,141.0
+STA.IT1078A,traffic,urban,Palermo,Palermo,Sicilia,Isole,13.350252,38.111034,34.0
+STA.IT1079A,traffic,urban,Palermo,Palermo,Sicilia,Isole,13.354215,38.124382,17.0
+STA.IT1082A,traffic,urban,Palermo,Palermo,Sicilia,Isole,13.331559,38.1517,42.0
+STA.IT1090A,industrial,suburban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.7875,45.623056,50.0
+STA.IT1091A,background,suburban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.79444,45.61861,92.0
+STA.IT1097A,background,urban,Brugnera,Pordenone,Friuli-Venezia Giulia,Nord-est,12.53631,45.89865,21.0
+STA.IT1099A,traffic,urban,Pordenone,Pordenone,Friuli-Venezia Giulia,Nord-est,12.65806,45.96222,0.0
+STA.IT1104A,traffic,urban,Pavia,Pavia,Lombardia,Nord-ovest,9.146944,45.185556,77.0
+STA.IT1105A,traffic,urban,Parma,Parma,Emilia-Romagna,Nord-est,10.33667,44.78833,55.0
+STA.IT1110A,background,urban,Pisa,Pisa,Toscana,Centro,10.401667,43.738889,5.0
+STA.IT1112A,background,urban,Porcia,Pordenone,Friuli-Venezia Giulia,Nord-est,12.618611,45.957778,29.0
+STA.IT1114A,background,suburban,Susa,Torino,Piemonte,Nord-ovest,7.0501,45.1391,499.0
+STA.IT1120A,background,suburban,Orbassano,Torino,Piemonte,Nord-ovest,7.5496,45.0069,268.0
+STA.IT1121A,background,rural,Druento,Torino,Piemonte,Nord-ovest,7.5602,45.1758,335.0
+STA.IT1125A,background,suburban,Vinovo,Torino,Piemonte,Nord-ovest,7.6362,44.9513,231.0
+STA.IT1128A,background,suburban,Borgaro Torinese,Torino,Piemonte,Nord-ovest,7.658,45.1546,257.0
+STA.IT1130A,traffic,urban,Settimo Torinese,Torino,Piemonte,Nord-ovest,7.7782,45.1432,202.0
+STA.IT1137A,traffic,urban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.77222,45.65722,2.0
+STA.IT1143A,traffic,urban,Vado Ligure,Savona,Liguria,Nord-ovest,8.43892,44.27253,0.0
+STA.IT1144A,industrial,suburban,Quiliano,Savona,Liguria,Nord-ovest,8.43169,44.28709,16.0
+STA.IT1145A,traffic,urban,Savona,Savona,Liguria,Nord-ovest,8.47293,44.31268,12.0
+STA.IT1149A,background,suburban,Pomarance,Pisa,Toscana,Centro,10.881667,43.247778,353.0
+STA.IT1152A,background,suburban,Carpi,Modena,Emilia-Romagna,Nord-est,10.88365,44.79943,25.0
+STA.IT1153A,traffic,urban,Cremona,Cremona,Lombardia,Nord-ovest,10.016667,45.132778,45.0
+STA.IT1159A,traffic,urban,Bologna,Bologna,Emilia-Romagna,Nord-est,11.32833,44.49972,54.0
+STA.IT1163A,traffic,urban,San Lazzaro di Savena,Bologna,Emilia-Romagna,Nord-est,11.41639,44.47222,64.0
+STA.IT1166A,background,urban,Tolmezzo,Udine,Friuli-Venezia Giulia,Nord-est,13.011111,46.401944,316.0
+STA.IT1168A,background,suburban,San Giovanni al Natisone,Udine,Friuli-Venezia Giulia,Nord-est,13.393333,45.973333,62.0
+STA.IT1170A,background,suburban,Udine,Udine,Friuli-Venezia Giulia,Nord-est,13.225278,46.035,100.0
+STA.IT1172A,industrial,suburban,Montebello Vicentino,Vicenza,Veneto,Nord-est,11.387222,45.466389,61.0
+STA.IT1174A,background,rural,Motta Visconti,Milano,Lombardia,Nord-ovest,8.989444,45.282778,100.0
+STA.IT1176A,background,urban,Roma,Roma,Lazio,Centro,12.541618,41.886019,28.0
+STA.IT1177A,background,urban,Vicenza,Vicenza,Veneto,Nord-est,11.539722,45.560556,36.0
+STA.IT1178A,background,rural-nearcity,Mignanego,Genova,Liguria,Nord-ovest,8.9459,44.55387,600.0
+STA.IT1179A,background,rural,Jolanda di Savoia,Ferrara,Emilia-Romagna,Nord-est,11.961111,44.839722,-2.0
+STA.IT1180A,background,urban,Perugia,Perugia,Umbria,Centro,12.36611,43.10306,290.0
+STA.IT1182A,traffic,urban,Perugia,Perugia,Umbria,Centro,12.44194,43.08889,197.0
+STA.IT1183A,traffic,urban,Cassino,Frosinone,Lazio,Centro,13.830728,41.48846,39.0
+STA.IT1184A,background,suburban,Latina,Latina,Lazio,Centro,12.9466,41.531405,15.0
+STA.IT1186A,background,urban,Viareggio,Lucca,Toscana,Centro,10.245,43.883889,3.0
+STA.IT1187A,background,urban,Capannori,Lucca,Toscana,Centro,10.573889,43.840833,10.0
+STA.IT1190A,background,urban,Morbegno,Sondrio,Lombardia,Nord-ovest,9.56639,46.13167,262.0
+STA.IT1191A,background,rural,Vallelaghi,Trento,Trentino-Alto Adige/Südtirol,Nord-est,10.95804,46.08253,1601.0
+STA.IT1192A,industrial,suburban,Carcare,Savona,Liguria,Nord-ovest,8.29011,44.36533,350.0
+STA.IT1193A,industrial,suburban,Melfi,Potenza,Basilicata,Sud,15.639965,40.9841,561.0
+STA.IT1200A,traffic,urban,Frosinone,Frosinone,Lazio,Centro,13.330917,41.624311,162.0
+STA.IT1203A,background,suburban,Arconate,Milano,Lombardia,Nord-ovest,8.84861,45.54667,184.0
+STA.IT1204A,background,urban,Ravenna,Ravenna,Emilia-Romagna,Nord-est,12.225556,44.42,4.0
+STA.IT1208A,traffic,urban,Pescara,Pescara,Abruzzo,Sud,14.1975,42.45194,8.0
+STA.IT1213A,background,urban,Adria,Rovigo,Veneto,Nord-est,12.06194,45.04667,4.0
+STA.IT1214A,background,urban,Rovigo,Rovigo,Veneto,Nord-est,11.791111,45.039722,3.0
+STA.IT1215A,traffic,urban,Rovigo,Rovigo,Veneto,Nord-est,11.78333,45.07472,7.0
+STA.IT1220A,background,rural,Sant'Antioco,Sulcis Iglesiente,Sardegna,Isole,8.45472,39.08056,2.0
+STA.IT1222A,background,urban,San Donà di Piave,Venezia,Veneto,Nord-est,12.591667,45.630278,3.0
+STA.IT1232A,industrial,suburban,Cairo Montenotte,Savona,Liguria,Nord-ovest,8.28068,44.38241,330.0
+STA.IT1233A,background,rural-nearcity,Cengio,Savona,Liguria,Nord-ovest,8.2015,44.39048,400.0
+STA.IT1243A,traffic,suburban,Sassari,Sassari,Sardegna,Isole,8.55139,40.71028,192.0
+STA.IT1246A,background,urban,Cossato,Biella,Piemonte,Nord-ovest,8.1876,45.569,271.0
+STA.IT1247A,background,urban,Biella,Biella,Piemonte,Nord-ovest,8.0564,45.5588,405.0
+STA.IT1251A,traffic,urban,Brescia,Brescia,Lombardia,Nord-ovest,10.23194,45.53861,170.0
+STA.IT1259A,industrial,suburban,Osoppo,Udine,Friuli-Venezia Giulia,Nord-est,13.066667,46.220833,167.0
+STA.IT1264A,background,urban,Pescara,Pescara,Abruzzo,Sud,14.21306,42.46639,9.0
+STA.IT1269A,industrial,suburban,Sarroch,Cagliari,Sardegna,Isole,9.016667,39.07,22.0
+STA.IT1270A,background,suburban,Sarroch,Cagliari,Sardegna,Isole,9.012222,39.081667,15.0
+STA.IT1273A,background,suburban,Portoscuso,Sulcis Iglesiente,Sardegna,Isole,8.39,39.208611,18.0
+STA.IT1277A,background,urban,Siniscola,Nuoro,Sardegna,Isole,9.69444,40.575,39.0
+STA.IT1278A,background,suburban,Assemini,Cagliari,Sardegna,Isole,8.983889,39.238333,14.0
+STA.IT1280A,background,urban,Tortolì,Ogliastra,Sardegna,Isole,9.680556,39.929444,2.0
+STA.IT1286A,traffic,urban,Lodi,Lodi,Lombardia,Nord-ovest,9.485556,45.305278,80.0
+STA.IT1287A,traffic,urban,Codogno,Lodi,Lombardia,Nord-ovest,9.698333,45.158611,58.0
+STA.IT1288A,background,rural,Abbadia Cerreto,Lodi,Lombardia,Nord-ovest,9.58611,45.30861,64.0
+STA.IT1290A,traffic,urban,San Giuliano Milanese,Milano,Lombardia,Nord-ovest,9.28278,45.39528,97.0
+STA.IT1294A,background,urban,Turbigo,Milano,Lombardia,Nord-ovest,8.73667,45.52583,146.0
+STA.IT1307A,background,suburban,Villasor,Cagliari,Sardegna,Isole,8.94139,39.38333,20.0
+STA.IT1309A,traffic,urban,Olbia,Gallura Nord-Est Sardegna,Sardegna,Isole,9.501667,40.928333,15.0
+STA.IT1328A,background,urban,Conegliano,Treviso,Veneto,Nord-est,12.308056,45.890556,72.0
+STA.IT1334A,traffic,urban,Bolzano/Bozen,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.33997,46.49547,260.0
+STA.IT1335A,traffic,urban,Merano/Meran,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.16163,46.662,297.0
+STA.IT1336A,traffic,urban,Verona,Verona,Veneto,Nord-est,10.96389,45.44528,62.0
+STA.IT1340A,background,urban,San Bonifacio,Verona,Veneto,Nord-est,11.28611,45.4,30.0
+STA.IT1343A,background,suburban,Verona,Verona,Veneto,Nord-est,10.91222,45.4625,91.0
+STA.IT1346A,traffic,urban,Siracusa,Siracusa,Sicilia,Isole,15.285297,37.091295,62.0
+STA.IT1347A,industrial,suburban,Porto Torres,Sassari,Sardegna,Isole,8.360278,40.815,15.0
+STA.IT1348A,traffic,urban,Siracusa,Siracusa,Sicilia,Isole,15.285331,37.067768,9.0
+STA.IT1350A,traffic,urban,Sassari,Sassari,Sardegna,Isole,8.55361,40.72972,180.0
+STA.IT1361A,traffic,urban,Fano,Pesaro e Urbino,Marche,Centro,13.01861,43.83972,20.0
+STA.IT1365A,background,urban,Terni,Terni,Umbria,Centro,12.62361,42.58194,156.0
+STA.IT1375A,background,rural,Nuraminis,Cagliari,Sardegna,Isole,9.015278,39.443611,124.0
+STA.IT1377A,background,urban,Oristano,Oristano,Sardegna,Isole,8.59472,39.90917,3.0
+STA.IT1378A,background,urban,Oristano,Oristano,Sardegna,Isole,8.59778,39.89889,10.0
+STA.IT1383A,industrial,suburban,Porto Torres,Sassari,Sardegna,Isole,8.393889,40.831944,18.0
+STA.IT1385A,background,suburban,Darfo Boario Terme,Brescia,Lombardia,Nord-ovest,10.1775,45.873889,226.0
+STA.IT1388A,background,suburban,Ponti sul Mincio,Mantova,Lombardia,Nord-ovest,10.69194,45.41083,113.0
+STA.IT1392A,background,rural,Borgocarbonara,Mantova,Lombardia,Nord-ovest,11.20444,45.05139,14.0
+STA.IT1393A,industrial,suburban,Mantova,Mantova,Lombardia,Nord-ovest,10.82417,45.15722,25.0
+STA.IT1396A,industrial,suburban,Portoscuso,Sulcis Iglesiente,Sardegna,Isole,8.386111,39.208611,28.0
+STA.IT1397A,industrial,suburban,Assemini,Cagliari,Sardegna,Isole,8.995833,39.226944,9.0
+STA.IT1407A,industrial,suburban,Ottana,Nuoro,Sardegna,Isole,9.0325,40.23722,181.0
+STA.IT1409A,traffic,urban,Pisa,Pisa,Toscana,Centro,10.41056,43.71389,5.0
+STA.IT1420A,industrial,suburban,Atessa,Chieti,Abruzzo,Sud,14.44111,42.14167,61.0
+STA.IT1423A,background,urban,Pescara,Pescara,Abruzzo,Sud,14.23472,42.45639,4.0
+STA.IT1427A,background,urban,Nuoro,Nuoro,Sardegna,Isole,9.32889,40.31889,511.0
+STA.IT1428A,background,urban,Nuoro,Nuoro,Sardegna,Isole,9.321667,40.320556,543.0
+STA.IT1440A,background,suburban,Siracusa,Siracusa,Sicilia,Isole,15.208712,37.093973,150.0
+STA.IT1449A,background,suburban,San Filippo del Mela,Messina,Sicilia,Isole,15.271443,38.174624,50.0
+STA.IT1451A,background,rural,Molinella,Bologna,Emilia-Romagna,Nord-est,11.639444,44.662222,11.0
+STA.IT1453A,background,urban,Padova,Padova,Veneto,Nord-est,11.841944,45.371944,13.0
+STA.IT1456A,traffic,urban,La Spezia,La Spezia,Liguria,Nord-ovest,9.83211,44.11081,2.0
+STA.IT1457A,traffic,urban,La Spezia,La Spezia,Liguria,Nord-ovest,9.8187,44.10165,3.0
+STA.IT1459A,background,suburban,Busto Arsizio,Varese,Lombardia,Nord-ovest,8.83449244,45.5828871,206.0
+STA.IT1463A,background,suburban,Osio Sotto,Bergamo,Lombardia,Nord-ovest,9.6115435,45.6205826,182.0
+STA.IT1464A,background,rural,Casirate d'Adda,Bergamo,Lombardia,Nord-ovest,9.556389,45.4975,115.0
+STA.IT1474A,background,rural,Doberdò del Lago-Doberdob,Gorizia,Friuli-Venezia Giulia,Nord-est,13.544722,45.843889,125.0
+STA.IT1475A,industrial,suburban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.78026035,45.6242076,27.0
+STA.IT1476A,industrial,urban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.78083,45.63028,8.0
+STA.IT1477A,industrial,suburban,Muggia,Trieste,Friuli-Venezia Giulia,Nord-est,13.75056,45.60861,2.0
+STA.IT1485A,traffic,suburban,Caserta,Caserta,Campania,Sud,14.36,41.07,70.0
+STA.IT1486A,traffic,urban,Caserta,Caserta,Campania,Sud,14.34472,41.08444,68.0
+STA.IT1487A,traffic,urban,Caserta,Caserta,Campania,Sud,14.33122,41.07795,68.0
+STA.IT1488A,traffic,suburban,Maddaloni,Caserta,Campania,Sud,14.37809,41.04592,71.0
+STA.IT1491A,traffic,urban,Napoli,Napoli,Campania,Sud,14.27167,40.85361,13.0
+STA.IT1492A,traffic,urban,Napoli,Napoli,Campania,Sud,14.25417,40.84972,42.0
+STA.IT1493A,traffic,suburban,Napoli,Napoli,Campania,Sud,14.34108,40.86427,33.0
+STA.IT1495A,traffic,urban,Napoli,Napoli,Campania,Sud,14.27547,40.87234,143.0
+STA.IT1496A,traffic,urban,Napoli,Napoli,Campania,Sud,14.23111,40.84936,173.0
+STA.IT1497A,background,urban,Napoli,Napoli,Campania,Sud,14.25451,40.86369,145.0
+STA.IT1504A,traffic,urban,Salerno,Salerno,Campania,Sud,14.76972,40.68389,35.0
+STA.IT1509A,background,suburban,Cerano,Novara,Piemonte,Nord-ovest,8.7861,45.4097,124.0
+STA.IT1510A,background,urban,Verbania,Verbano-Cusio-Ossola,Piemonte,Nord-ovest,8.5655,45.9303,203.0
+STA.IT1518A,background,urban,Novara,Novara,Piemonte,Nord-ovest,8.6206,45.4383,154.0
+STA.IT1519A,background,rural,Saliceto,Cuneo,Piemonte,Nord-ovest,8.1695,44.4122,392.0
+STA.IT1523A,background,urban,Asti,Asti,Piemonte,Nord-ovest,8.2055,44.9089,150.0
+STA.IT1524A,background,urban,Alba,Cuneo,Piemonte,Nord-ovest,8.0333,44.7037,164.0
+STA.IT1529A,background,urban,Cuneo,Cuneo,Piemonte,Nord-ovest,7.5382,44.3818,550.0
+STA.IT1532A,background,urban,Borgosesia,Vercelli,Piemonte,Nord-ovest,8.2835,45.7132,344.0
+STA.IT1533A,traffic,urban,Vercelli,Vercelli,Piemonte,Nord-ovest,8.4151,45.3284,130.0
+STA.IT1535A,background,urban,Legnago,Verona,Veneto,Nord-est,11.311389,45.183611,25.0
+STA.IT1536A,background,urban,La Spezia,La Spezia,Liguria,Nord-ovest,9.84394,44.11603,6.0
+STA.IT1537A,background,urban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.77111,45.65,0.0
+STA.IT1538A,background,urban,Monfalcone,Gorizia,Friuli-Venezia Giulia,Nord-est,13.528889,45.81,5.0
+STA.IT1539A,background,rural,Ravascletto,Udine,Friuli-Venezia Giulia,Nord-est,12.93167,46.50722,1717.0
+STA.IT1544A,industrial,urban,La Spezia,La Spezia,Liguria,Nord-ovest,9.8577,44.10666,3.0
+STA.IT1546A,industrial,suburban,Portovenere,La Spezia,Liguria,Nord-ovest,9.83895,44.06466,21.0
+STA.IT1547A,industrial,suburban,La Spezia,La Spezia,Liguria,Nord-ovest,9.86571,44.12865,176.0
+STA.IT1548A,background,rural-nearcity,Bolano,La Spezia,Liguria,Nord-ovest,9.89769,44.18309,275.0
+STA.IT1549A,background,suburban,Campomorone,Genova,Liguria,Nord-ovest,8.87383,44.51859,120.0
+STA.IT1551A,background,urban,Scandicci,Firenze,Toscana,Centro,11.19278,43.75694,45.0
+STA.IT1552A,traffic,urban,Palermo,Palermo,Sicilia,Isole,13.329306,38.121681,55.0
+STA.IT1553A,background,rural,Montale,Pistoia,Toscana,Centro,11.00694,43.91611,48.0
+STA.IT1557A,background,urban,Livorno,Livorno,Toscana,Centro,10.321667,43.52,13.0
+STA.IT1560A,traffic,urban,Livorno,Livorno,Toscana,Centro,10.32972,43.55472,9.0
+STA.IT1566A,traffic,urban,Siracusa,Siracusa,Sicilia,Isole,15.278581,37.075831,40.0
+STA.IT1571A,background,urban,Pistoia,Pistoia,Toscana,Centro,10.90528,43.94083,80.0
+STA.IT1575A,industrial,suburban,Portoscuso,Sulcis Iglesiente,Sardegna,Isole,8.43028,39.17722,16.0
+STA.IT1576A,background,suburban,Portoscuso,Sulcis Iglesiente,Sardegna,Isole,8.386111,39.203333,25.0
+STA.IT1578A,background,suburban,Pesaro,Pesaro e Urbino,Marche,Centro,12.91889,43.89333,20.0
+STA.IT1580A,traffic,urban,Albisola Superiore,Savona,Liguria,Nord-ovest,8.51019,44.32963,0.0
+STA.IT1582A,background,urban,Casale Monferrato,Alessandria,Piemonte,Nord-ovest,8.4452,45.1361,116.0
+STA.IT1583A,traffic,urban,Potenza,Potenza,Basilicata,Sud,15.795198,40.649208,742.0
+STA.IT1585A,traffic,urban,Potenza,Potenza,Basilicata,Sud,15.796423,40.627877,673.0
+STA.IT1586A,industrial,suburban,Potenza,Potenza,Basilicata,Sud,15.811729,40.62541,705.0
+STA.IT1587A,background,urban,Gorizia,Gorizia,Friuli-Venezia Giulia,Nord-est,13.61639,45.93694,50.0
+STA.IT1588A,traffic,urban,Varese,Varese,Lombardia,Nord-ovest,8.820278,45.816944,388.0
+STA.IT1590A,background,urban,Treviso,Treviso,Veneto,Nord-est,12.238611,45.6725,15.0
+STA.IT1592A,traffic,urban,Grosseto,Grosseto,Toscana,Centro,11.11,42.7625,10.0
+STA.IT1593A,background,urban,Grosseto,Grosseto,Toscana,Centro,11.11917,42.77861,10.0
+STA.IT1594A,background,urban,Belluno,Belluno,Veneto,Nord-est,12.216944,46.141389,401.0
+STA.IT1596A,background,rural,Mansuè,Treviso,Veneto,Nord-est,12.510278,45.836944,14.0
+STA.IT1598A,traffic,suburban,Manfredonia,Foggia,Puglia,Sud,15.90944,41.62833,20.0
+STA.IT1601A,background,rural,Monte Sant'Angelo,Foggia,Puglia,Sud,15.945,41.66528,30.0
+STA.IT1603A,traffic,urban,Molfetta,Bari,Puglia,Sud,16.605,41.200278,10.0
+STA.IT1606A,traffic,urban,Bari,Bari,Puglia,Sud,16.888056,41.113611,10.0
+STA.IT1607A,traffic,suburban,Statte,Taranto,Puglia,Sud,17.17361,40.52611,10.0
+STA.IT1608A,industrial,suburban,Statte,Taranto,Puglia,Sud,17.20333,40.5625,10.0
+STA.IT1609A,industrial,suburban,Taranto,Taranto,Puglia,Sud,17.2536,40.52111,10.0
+STA.IT1610A,background,urban,Taranto,Taranto,Puglia,Sud,17.22528,40.42333,10.0
+STA.IT1611A,industrial,suburban,Taranto,Taranto,Puglia,Sud,17.22583,40.48861,10.0
+STA.IT1613A,traffic,urban,Taranto,Taranto,Puglia,Sud,17.26333,40.4605556,10.0
+STA.IT1614A,background,urban,Taranto,Taranto,Puglia,Sud,17.28389,40.41194,10.0
+STA.IT1617A,background,suburban,San Pancrazio Salentino,Brindisi,Puglia,Sud,17.84639,40.42333,20.0
+STA.IT1618A,traffic,urban,Brindisi,Brindisi,Puglia,Sud,17.94777,40.6341667,10.0
+STA.IT1619A,background,suburban,Feltre,Belluno,Veneto,Nord-est,11.905833,46.030833,263.0
+STA.IT1621A,traffic,urban,Bari,Bari,Puglia,Sud,16.873333,41.123333,10.0
+STA.IT1624A,background,urban,Bari,Bari,Puglia,Sud,16.859722,41.100556,10.0
+STA.IT1644A,background,rural,Lucca,Lucca,Toscana,Centro,10.45361,43.86889,120.0
+STA.IT1646A,background,suburban,San Rocco al Porto,Lodi,Lombardia,Nord-ovest,9.71389,45.0819919,47.0
+STA.IT1648A,background,suburban,Cantù,Como,Lombardia,Nord-ovest,9.12583,45.72722,320.0
+STA.IT1650A,background,urban,Saronno,Varese,Lombardia,Nord-ovest,9.024167,45.626944,212.0
+STA.IT1651A,industrial,suburban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.78778,45.6175,25.0
+STA.IT1654A,background,urban,Prato,Prato,Toscana,Centro,11.09194,43.87278,54.0
+STA.IT1657A,industrial,suburban,San Pietro Vernotico,Brindisi,Puglia,Sud,18.00556,40.48556,20.0
+STA.IT1658A,industrial,suburban,Torchiarolo,Brindisi,Puglia,Sud,18.05361,40.48806,10.0
+STA.IT1660A,industrial,suburban,Taranto,Taranto,Puglia,Sud,17.23306,40.49444,10.0
+STA.IT1661A,traffic,suburban,Santo Stefano di Magra,La Spezia,Liguria,Nord-ovest,9.91871,44.15466,28.0
+STA.IT1662A,background,suburban,La Spezia,La Spezia,Liguria,Nord-ovest,9.79871,44.12365,20.0
+STA.IT1663A,background,suburban,Mesagne,Brindisi,Puglia,Sud,17.80833,40.56556,10.0
+STA.IT1664A,background,suburban,Guagnano,Lecce,Puglia,Sud,17.96447,40.41852,10.0
+STA.IT1665A,background,rural,Lecce,Lecce,Puglia,Sud,18.11611,40.45889,10.0
+STA.IT1666A,background,suburban,Campi Salentina,Lecce,Puglia,Sud,18.02972,40.40444,10.0
+STA.IT1670A,background,urban,Cesena,Forlì-Cesena,Emilia-Romagna,Nord-est,12.239167,44.139167,37.0
+STA.IT1672A,background,rural,Villa Minozzo,Reggio nell'Emilia,Emilia-Romagna,Nord-est,10.430278,44.299722,1120.0
+STA.IT1674A,industrial,suburban,Potenza,Potenza,Basilicata,Sud,15.872893,40.643893,720.0
+STA.IT1676A,traffic,urban,Novara,Novara,Piemonte,Nord-ovest,8.6197,45.4403,157.0
+STA.IT1678A,traffic,suburban,Velturno/Feldthurns,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.62111,46.67917,550.0
+STA.IT1679A,background,suburban,Grottaglie,Taranto,Puglia,Sud,17.42389,40.53778,200.0
+STA.IT1680A,traffic,urban,Martina Franca,Taranto,Puglia,Sud,17.33194,40.70083,400.0
+STA.IT1681A,background,rural,Chitignano,Arezzo,Toscana,Centro,11.90167,43.66028,650.0
+STA.IT1687A,background,suburban,Arnesano,Lecce,Puglia,Sud,18.09507,40.34627,10.0
+STA.IT1692A,background,urban,Milano,Milano,Lombardia,Nord-ovest,9.23583,45.47833,122.0
+STA.IT1694A,traffic,urban,Fabriano,Ancona,Marche,Centro,12.90944,43.34389,325.0
+STA.IT1696A,background,suburban,Laives/Leifers,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.34014,46.43483,230.0
+STA.IT1698A,traffic,urban,Genova,Genova,Liguria,Nord-ovest,8.96819,44.40492,75.0
+STA.IT1701A,traffic,suburban,Brindisi,Brindisi,Puglia,Sud,17.93833,40.63806,10.0
+STA.IT1702A,background,suburban,Brindisi,Brindisi,Puglia,Sud,17.94361,40.65083,10.0
+STA.IT1704A,industrial,suburban,Brindisi,Brindisi,Puglia,Sud,17.97806,40.62028,10.0
+STA.IT1706A,traffic,urban,Savona,Savona,Liguria,Nord-ovest,8.47729,44.31306,14.0
+STA.IT1718A,traffic,urban,Catania,Catania,Sicilia,Isole,15.097211,37.515808,38.0
+STA.IT1725A,background,urban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.34256,45.7373,570.0
+STA.IT1728A,background,urban,Terni,Terni,Umbria,Centro,12.65167,42.55222,138.0
+STA.IT1734A,background,suburban,Valmadrera,Lecco,Lombardia,Nord-ovest,9.34889,45.84083,237.0
+STA.IT1735A,background,urban,Voghera,Pavia,Lombardia,Nord-ovest,9.009444,45.000278,90.0
+STA.IT1736A,background,rural,Cornale e Bastida,Pavia,Lombardia,Nord-ovest,8.915,45.040833,74.0
+STA.IT1737A,background,urban,Brescia,Brescia,Lombardia,Nord-ovest,10.219444,45.515278,70.0
+STA.IT1739A,background,urban,Cremona,Cremona,Lombardia,Nord-ovest,10.045833,45.142222,45.0
+STA.IT1740A,industrial,rural,Melfi,Potenza,Basilicata,Sud,15.722746,41.067055,187.0
+STA.IT1741A,industrial,rural,Ferrandina,Matera,Basilicata,Sud,16.496209,40.485846,63.0
+STA.IT1742A,industrial,rural,Viggiano,Potenza,Basilicata,Sud,15.90458,40.314068,604.0
+STA.IT1743A,background,urban,Monza,Monza e della Brianza,Lombardia,Nord-ovest,9.27444,45.58111,162.0
+STA.IT1744A,industrial,suburban,Matera,Matera,Basilicata,Sud,16.547146,40.686653,245.0
+STA.IT1745A,industrial,suburban,Spoleto,Perugia,Umbria,Centro,12.71333,42.74472,282.0
+STA.IT1746A,industrial,rural,Ferrera Erbognone,Pavia,Lombardia,Nord-ovest,8.875,45.114444,88.0
+STA.IT1751A,industrial,suburban,Busalla,Genova,Liguria,Nord-ovest,8.95104,44.57402,400.0
+STA.IT1753A,traffic,urban,Campobasso,Campobasso,Molise,Sud,14.663333,41.557778,686.0
+STA.IT1766A,industrial,rural-nearcity,Firmo,Cosenza,Calabria,Sud,16.19397,39.71376,325.0
+STA.IT1771A,background,urban,Modena,Modena,Emilia-Romagna,Nord-est,10.90633,44.65061,34.0
+STA.IT1773A,background,rural-regional,Genga,Ancona,Marche,Centro,12.95222,43.46806,550.0
+STA.IT1788A,background,suburban,Ivrea,Torino,Piemonte,Nord-ovest,7.878,45.4512,240.0
+STA.IT1790A,background,rural,Alpago,Belluno,Veneto,Nord-est,12.360833,46.1625,615.0
+STA.IT1791A,background,rural,Asiago,Vicenza,Veneto,Nord-est,11.569167,45.848333,1366.0
+STA.IT1792A,traffic,urban,Cassano d'Adda,Milano,Lombardia,Nord-ovest,9.503333,45.528056,133.0
+STA.IT1794A,background,urban,Pace del Mela,Messina,Sicilia,Isole,15.310064,38.205556,10.0
+STA.IT1795A,background,suburban,Macerata,Macerata,Marche,Centro,13.42861,43.285,225.0
+STA.IT1796A,background,rural,Civitanova Marche,Macerata,Marche,Centro,13.67472,43.33556,110.0
+STA.IT1798A,background,urban,Campobasso,Campobasso,Molise,Sud,14.674722,41.554167,650.0
+STA.IT1799A,background,urban,Campobasso,Campobasso,Molise,Sud,14.672778,41.566944,726.0
+STA.IT1800A,traffic,urban,Termoli,Campobasso,Molise,Sud,14.99361,42.00111,24.0
+STA.IT1801A,traffic,urban,Termoli,Campobasso,Molise,Sud,14.993333,41.998056,31.0
+STA.IT1802A,traffic,urban,Isernia,Isernia,Molise,Sud,14.23361,41.59722,472.0
+STA.IT1804A,traffic,urban,Venafro,Isernia,Molise,Sud,14.04722,41.48417,182.0
+STA.IT1806A,background,rural,Guardiaregia,Campobasso,Molise,Sud,14.525556,41.418889,884.0
+STA.IT1812A,background,rural,Moggio,Lecco,Lombardia,Nord-ovest,9.496944,45.913056,1192.0
+STA.IT1817A,traffic,suburban,Monopoli,Bari,Puglia,Sud,17.29028,40.95667,10.0
+STA.IT1818A,traffic,suburban,Altamura,Bari,Puglia,Sud,16.56028,40.82778,100.0
+STA.IT1819A,background,urban,Carrara,Massa-Carrara,Toscana,Centro,10.097222,44.078333,98.0
+STA.IT1822A,traffic,urban,Andria,Barletta-Andria-Trani,Puglia,Sud,16.29167,41.23167,10.0
+STA.IT1823A,background,suburban,Casamassima,Bari,Puglia,Sud,16.91972,40.95333,100.0
+STA.IT1826A,background,urban,Lecco,Lecco,Lombardia,Nord-ovest,9.39995,45.86375,267.0
+STA.IT1827A,background,urban,Ancona,Ancona,Marche,Centro,13.50861,43.61167,100.0
+STA.IT1829A,traffic,urban,Messina,Messina,Sicilia,Isole,15.552935,38.198256,10.0
+STA.IT1830A,background,urban,Alessandria,Alessandria,Piemonte,Nord-ovest,8.6232,44.9203,91.0
+STA.IT1833A,industrial,urban,Chiampo,Vicenza,Veneto,Nord-est,11.293281,45.53636,200.0
+STA.IT1834A,traffic,urban,Roma,Roma,Lazio,Centro,12.548854,41.910268,26.0
+STA.IT1835A,background,urban,Roma,Roma,Lazio,Centro,12.533667,41.947654,36.0
+STA.IT1836A,background,urban,Roma,Roma,Lazio,Centro,12.447588,41.906356,24.0
+STA.IT1837A,traffic,urban,Roma,Roma,Lazio,Centro,12.46957,41.863993,17.0
+STA.IT1838A,traffic,urban,Vicenza,Vicenza,Veneto,Nord-est,11.53417,45.54583,35.0
+STA.IT1841A,traffic,urban,Ciampino,Roma,Lazio,Centro,12.607028,41.797881,134.0
+STA.IT1842A,background,rural-regional,Montemonaco,Ascoli Piceno,Marche,Centro,13.33667,42.90056,1000.0
+STA.IT1843A,background,urban,Ascoli Piceno,Ascoli Piceno,Marche,Centro,13.61944,42.84861,150.0
+STA.IT1847A,traffic,suburban,Oulx,Torino,Piemonte,Nord-ovest,6.8359,45.0348,1077.0
+STA.IT1848A,background,rural,Bosco Chiesanuova,Verona,Veneto,Nord-est,11.03778,45.59,824.0
+STA.IT1850A,traffic,urban,Genova,Genova,Liguria,Nord-ovest,8.90142,44.46272,60.0
+STA.IT1852A,background,suburban,Cortina sulla strada del vino/Kurtinig an der Weinstraße,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.22711,46.26733,210.0
+STA.IT1856A,background,urban,L'Aquila,L'Aquila,Abruzzo,Sud,13.38306,42.36417,673.0
+STA.IT1857A,traffic,urban,Teramo,Teramo,Abruzzo,Sud,13.70944,42.65722,257.0
+STA.IT1859A,traffic,urban,Trento,Trento,Trentino-Alto Adige/Südtirol,Nord-est,11.11023,46.10434,197.0
+STA.IT1860A,background,urban,Spoleto,Perugia,Umbria,Centro,12.73722,42.73972,319.0
+STA.IT1862A,traffic,urban,Venezia,Venezia,Veneto,Nord-est,12.21833,45.49028,1.0
+STA.IT1863A,background,rural,Vastogirardi,Isernia,Molise,Sud,14.208889,41.759444,954.0
+STA.IT1865A,background,rural,Schivenoglia,Mantova,Lombardia,Nord-ovest,11.07083,44.99694,16.0
+STA.IT1868A,background,urban,Mantova,Mantova,Lombardia,Nord-ovest,10.795556,45.160556,22.0
+STA.IT1869A,traffic,urban,Mantova,Mantova,Lombardia,Nord-ovest,10.78194,45.16444,19.0
+STA.IT1870A,background,rural,Cinto Euganeo,Padova,Veneto,Nord-est,11.643056,45.29,18.0
+STA.IT1871A,industrial,suburban,Este,Padova,Veneto,Nord-est,11.665833,45.226667,12.0
+STA.IT1873A,background,urban,Ferno,Varese,Lombardia,Nord-ovest,8.75,45.61667,215.0
+STA.IT1874A,background,urban,Parona,Pavia,Lombardia,Nord-ovest,8.75472,45.28111,6.0
+STA.IT1876A,background,suburban,Calusco d'Adda,Bergamo,Lombardia,Nord-ovest,9.466667,45.683333,273.0
+STA.IT1877A,background,urban,Torino,Torino,Piemonte,Nord-ovest,7.6259,45.0419,260.0
+STA.IT1878A,background,suburban,Vercelli,Vercelli,Piemonte,Nord-ovest,8.4024,45.3189,131.0
+STA.IT1880A,traffic,urban,Padova,Padova,Veneto,Nord-est,11.89056,45.43333,11.0
+STA.IT1882A,traffic,urban,Sanremo,Imperia,Liguria,Nord-ovest,7.77273,43.81413,16.0
+STA.IT1883A,background,urban,Savona,Savona,Liguria,Nord-ovest,8.48542,44.31538,55.0
+STA.IT1884A,traffic,urban,Genova,Genova,Liguria,Nord-ovest,8.95013,44.40309,7.0
+STA.IT1886A,traffic,urban,La Spezia,La Spezia,Liguria,Nord-ovest,9.81587,44.11013,5.0
+STA.IT1887A,traffic,urban,Genova,Genova,Liguria,Nord-ovest,8.91193,44.41394,17.0
+STA.IT1888A,background,urban,Partinico,Palermo,Sicilia,Isole,13.11859,38.050162,187.0
+STA.IT1889A,background,urban,Termini Imerese,Palermo,Sicilia,Isole,13.687987,37.977911,101.0
+STA.IT1890A,background,urban,Enna,Enna,Sicilia,Isole,14.281463,37.564125,925.0
+STA.IT1894A,background,rural-regional,Ripatransone,Ascoli Piceno,Marche,Centro,13.78472,42.99222,412.0
+STA.IT1895A,industrial,rural,Pisticci,Matera,Basilicata,Sud,16.548431,40.420377,55.0
+STA.IT1897A,industrial,urban,Lavello,Potenza,Basilicata,Sud,15.787626,41.046003,319.0
+STA.IT1898A,background,urban,Trapani,Trapani,Sicilia,Isole,12.546894,38.012365,40.0
+STA.IT1899A,background,urban,Misterbianco,Catania,Sicilia,Isole,15.010788,37.515714,160.0
+STA.IT1900A,traffic,urban,Foligno,Perugia,Umbria,Centro,12.70778,42.95167,234.0
+STA.IT1901A,traffic,urban,Gubbio,Perugia,Umbria,Centro,12.57639,43.35278,498.0
+STA.IT1902A,background,rural,Torgiano,Perugia,Umbria,Centro,12.46806,43.06694,209.0
+STA.IT1903A,traffic,urban,Asti,Asti,Piemonte,Nord-ovest,8.1975,44.8942,119.0
+STA.IT1904A,background,rural,Dernice,Alessandria,Piemonte,Nord-ovest,9.0524,44.7633,620.0
+STA.IT1905A,background,urban,Vicenza,Vicenza,Veneto,Nord-est,11.521944,45.531944,33.0
+STA.IT1906A,background,urban,Roma,Roma,Lazio,Centro,12.475387,41.893971,17.0
+STA.IT1908A,background,suburban,Savignano sul Rubicone,Forlì-Cesena,Emilia-Romagna,Nord-est,12.4025,44.095833,32.0
+STA.IT1910A,background,suburban,Colorno,Parma,Emilia-Romagna,Nord-est,10.370833,44.926111,30.0
+STA.IT1911A,background,rural,Langhirano,Parma,Emilia-Romagna,Nord-est,10.288889,44.6575,202.0
+STA.IT1914A,background,rural,Guastalla,Reggio nell'Emilia,Emilia-Romagna,Nord-est,10.663889,44.873056,22.0
+STA.IT1915A,background,rural,San Clemente,Rimini,Emilia-Romagna,Nord-est,12.6275,43.932778,165.0
+STA.IT1916A,background,suburban,Verucchio,Rimini,Emilia-Romagna,Nord-est,12.42,44.013056,78.0
+STA.IT1917A,background,suburban,Cento,Ferrara,Emilia-Romagna,Nord-est,11.299722,44.738333,16.0
+STA.IT1918A,background,urban,Ferrara,Ferrara,Emilia-Romagna,Nord-est,11.649722,44.825,9.0
+STA.IT1919A,background,rural,Ostellato,Ferrara,Emilia-Romagna,Nord-est,11.942222,44.741667,0.0
+STA.IT1920A,traffic,urban,Fiorano Modenese,Modena,Emilia-Romagna,Nord-est,10.8189,44.54121,131.0
+STA.IT1921A,background,rural,Mirandola,Modena,Emilia-Romagna,Nord-est,11.17795,44.92784,4.0
+STA.IT1923A,traffic,urban,Piacenza,Piacenza,Emilia-Romagna,Nord-est,9.69333,45.04889,61.0
+STA.IT1924A,background,rural,Besenzone,Piacenza,Emilia-Romagna,Nord-est,10.019167,44.989444,48.0
+STA.IT1927A,background,rural,Alfonsine,Ravenna,Emilia-Romagna,Nord-est,11.981381,44.526485,1.0
+STA.IT1928A,background,suburban,Cervia,Ravenna,Emilia-Romagna,Nord-est,12.332222,44.283889,0.0
+STA.IT1930A,background,rural,Mezzolombardo,Trento,Trentino-Alto Adige/Südtirol,Nord-est,11.11343,46.19684,227.0
+STA.IT1932A,traffic,urban,Lecce,Lecce,Puglia,Sud,18.17306,40.36444,58.0
+STA.IT1934A,traffic,urban,Venezia,Venezia,Veneto,Nord-est,12.22083,45.47556,2.0
+STA.IT1936A,industrial,suburban,Venezia,Venezia,Veneto,Nord-est,12.205556,45.438333,1.0
+STA.IT1938A,background,urban,Cosenza,Cosenza,Calabria,Sud,16.24517,39.3134,230.0
+STA.IT1940A,background,urban,Locri,Reggio Calabria,Calabria,Sud,16.25518,38.22976,11.0
+STA.IT1942A,background,rural,Grosseto,Grosseto,Toscana,Centro,11.09417,42.67056,40.0
+STA.IT1943A,traffic,urban,Chiavari,Genova,Liguria,Nord-ovest,9.32356,44.31494,4.0
+STA.IT1944A,background,suburban,Cogoleto,Genova,Liguria,Nord-ovest,8.64314,44.3914,16.0
+STA.IT1947A,background,urban,Sarroch,Cagliari,Sardegna,Isole,9.008889,39.066667,56.0
+STA.IT1948A,background,rural,Vinchio,Asti,Piemonte,Nord-ovest,8.3103,44.808,258.0
+STA.IT1953A,industrial,suburban,Galatina,Lecce,Puglia,Sud,18.17361,40.16805,50.0
+STA.IT1961A,background,rural,Baceno,Verbano-Cusio-Ossola,Piemonte,Nord-ovest,8.2559,46.3148,1639.0
+STA.IT1962A,background,urban,Venafro,Isernia,Molise,Sud,14.033333,41.478889,170.0
+STA.IT1963A,background,rural,Ceresole Reale,Torino,Piemonte,Nord-ovest,7.2454,45.4302,1576.0
+STA.IT1964A,background,rural,Bertonico,Lodi,Lombardia,Nord-ovest,9.66694,45.235,63.0
+STA.IT1965A,background,urban,Lodi,Lodi,Lombardia,Nord-ovest,9.49528589,45.3027868,76.0
+STA.IT1967A,background,urban,Sondrio,Sondrio,Lombardia,Nord-ovest,9.88028,46.16861,290.0
+STA.IT1975A,background,urban,Piacenza,Piacenza,Emilia-Romagna,Nord-est,9.669167,45.038333,61.0
+STA.IT1976A,industrial,suburban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.32306,45.73306,567.0
+STA.IT1977A,traffic,urban,Montesilvano,Pescara,Abruzzo,Sud,14.14833,42.5175,5.0
+STA.IT1989A,traffic,urban,Reggio di Calabria,Reggio Calabria,Calabria,Sud,15.64524,38.10591,40.0
+STA.IT1992A,background,urban,Iglesias,Sulcis Iglesiente,Sardegna,Isole,8.541389,39.311111,180.0
+STA.IT1993A,background,urban,Monserrato,Cagliari,Sardegna,Isole,9.136389,39.260556,15.0
+STA.IT1994A,background,urban,San Gavino Monreale,Medio Campidano,Sardegna,Isole,8.79417,39.54667,56.0
+STA.IT1996A,background,rural-nearcity,Macomer,Nuoro,Sardegna,Isole,8.773056,40.256389,532.0
+STA.IT1997A,background,suburban,Milazzo,Messina,Sicilia,Isole,15.249112,38.190608,28.0
+STA.IT1998A,background,suburban,Gonnesa,Sulcis Iglesiente,Sardegna,Isole,8.4325,39.224167,116.0
+STA.IT1999A,industrial,urban,Genova,Genova,Liguria,Nord-ovest,8.83039,44.4274,30.0
+STA.IT2001A,traffic,urban,Bra,Cuneo,Piemonte,Nord-ovest,7.8431,44.7061,283.0
+STA.IT2003A,background,urban,Barletta,Barletta-Andria-Trani,Puglia,Sud,16.28611,41.31667,15.0
+STA.IT2004A,traffic,urban,Perugia,Perugia,Umbria,Centro,12.37472,43.10444,305.0
+STA.IT2005A,background,suburban,Olbia,Gallura Nord-Est Sardegna,Sardegna,Isole,9.491667,40.9275,17.0
+STA.IT2006A,background,suburban,Carbonia,Sulcis Iglesiente,Sardegna,Isole,8.521389,39.165556,96.0
+STA.IT2007A,background,urban,Erba,Como,Lombardia,Nord-ovest,9.222778,45.809444,323.0
+STA.IT2008A,background,urban,Santa Giusta,Oristano,Sardegna,Isole,8.605278,39.885278,4.0
+STA.IT2009A,background,urban,Sassari,Sassari,Sardegna,Isole,8.57611,40.72444,275.0
+STA.IT2010A,background,urban,Porto Torres,Sassari,Sardegna,Isole,8.405278,40.831389,16.0
+STA.IT2011A,background,rural-remote,Seulo,Nuoro,Sardegna,Isole,9.216389,39.8425,736.0
+STA.IT2012A,background,suburban,Roma,Roma,Lazio,Centro,12.34559,41.874783,62.0
+STA.IT2013A,background,urban,Frosinone,Frosinone,Lazio,Centro,13.348977,41.639609,242.0
+STA.IT2014A,background,rural,Perledo,Lecco,Lombardia,Nord-ovest,9.286111,46.015833,211.0
+STA.IT2018A,traffic,suburban,Francavilla Fontana,Brindisi,Puglia,Sud,17.5875,40.5275,139.0
+STA.IT2019A,background,urban,Foggia,Foggia,Puglia,Sud,15.54778,41.45389,76.0
+STA.IT2021A,traffic,urban,Massafra,Taranto,Puglia,Sud,17.11583,40.59194,118.0
+STA.IT2022A,background,rural-regional,Propata,Genova,Liguria,Nord-ovest,9.18487,44.56468,965.0
+STA.IT2023A,background,rural,Acquapendente,Viterbo,Lazio,Centro,11.87643,42.736572,436.0
+STA.IT2026A,industrial,suburban,Polistena,Reggio Calabria,Calabria,Sud,16.07022,38.39986,224.0
+STA.IT2027A,background,rural,Sogliano al Rubicone,Forlì-Cesena,Emilia-Romagna,Nord-est,12.224722,43.9275,615.0
+STA.IT2028A,background,urban,Reggio di Calabria,Reggio Calabria,Calabria,Sud,15.63879,38.10495,20.0
+STA.IT2029A,background,urban,Sanremo,Imperia,Liguria,Nord-ovest,7.77434,43.82001,80.0
+STA.IT2030A,background,suburban,Gela,Caltanissetta,Sicilia,Isole,14.297144,37.055867,9.0
+STA.IT2031A,background,urban,Crotone,Crotone,Calabria,Sud,17.11417,39.06808,37.0
+STA.IT2032A,background,urban,Poggibonsi,Siena,Toscana,Centro,11.14194,43.47278,105.0
+STA.IT2033A,background,suburban,Ragusa,Ragusa,Sicilia,Isole,14.734022,36.917119,501.0
+STA.IT2036A,background,urban,Ragusa,Ragusa,Sicilia,Isole,14.714509,36.926331,598.0
+STA.IT2038A,traffic,urban,Albenga,Savona,Liguria,Nord-ovest,8.20544,44.05259,2.0
+STA.IT2039A,traffic,urban,Rapallo,Genova,Liguria,Nord-ovest,9.22261,44.35173,2.8
+STA.IT2040A,background,urban,Quartu Sant'Elena,Cagliari,Sardegna,Isole,9.188056,39.232778,8.0
+STA.IT2044A,traffic,urban,Lecce,Lecce,Puglia,Sud,18.17667,40.35194,50.0
+STA.IT2049A,background,urban,Assemini,Cagliari,Sardegna,Isole,9.011389,39.286389,5.0
+STA.IT2051A,background,suburban,Bari,Bari,Puglia,Sud,16.865833,41.076944,130.0
+STA.IT2052A,background,urban,Catania,Catania,Sicilia,Isole,15.081122,37.529257,135.0
+STA.IT2055A,background,urban,Sassari,Sassari,Sardegna,Isole,8.569167,40.716667,220.0
+STA.IT2056A,traffic,urban,Cagliari,Cagliari,Sardegna,Isole,9.115,39.235833,33.0
+STA.IT2058A,background,suburban,Bari,Bari,Puglia,Sud,16.84526,41.1347,5.0
+STA.IT2059A,background,urban,Alghero,Sassari,Sardegna,Isole,8.324722,40.553333,25.0
+STA.IT2060A,background,rural,Sassari,Sassari,Sardegna,Isole,8.275278,40.809167,61.0
+STA.IT2061A,background,suburban,Urbino,Pesaro e Urbino,Marche,Centro,12.63639,43.73056,380.0
+STA.IT2062A,background,urban,Dalmine,Bergamo,Lombardia,Nord-ovest,9.61472,45.64389,207.0
+STA.IT2063A,industrial,rural,Spinadesco,Cremona,Lombardia,Nord-ovest,9.940278,45.148333,48.0
+STA.IT2064A,industrial,suburban,Gubbio,Perugia,Umbria,Centro,12.611667,43.273889,516.0
+STA.IT2066A,industrial,suburban,Gubbio,Perugia,Umbria,Centro,12.557222,43.358333,475.0
+STA.IT2067A,industrial,suburban,Gubbio,Perugia,Umbria,Centro,12.618611,43.317778,498.0
+STA.IT2068A,industrial,suburban,Spoleto,Perugia,Umbria,Centro,12.666389,42.743333,318.0
+STA.IT2070A,industrial,urban,Padova,Padova,Veneto,Nord-est,11.94,45.3775,9.0
+STA.IT2071A,background,rural,Santa Giustina in Colle,Padova,Veneto,Nord-est,11.902222,45.600278,25.0
+STA.IT2072A,background,rural,Badia Polesine,Rovigo,Veneto,Nord-est,11.553333,45.103889,6.0
+STA.IT2073A,background,urban,Sassuolo,Modena,Emilia-Romagna,Nord-est,10.79139,44.53944,118.0
+STA.IT2074A,background,rural,Corte Brugnatella,Piacenza,Emilia-Romagna,Nord-est,9.36693,44.73473,765.0
+STA.IT2075A,background,suburban,Bologna,Bologna,Emilia-Romagna,Nord-est,11.286111,44.5,56.0
+STA.IT2076A,background,rural,Mondaino,Rimini,Emilia-Romagna,Nord-est,12.648333,43.843889,127.0
+STA.IT2078A,industrial,rural-nearcity,Simeri Crichi,Catanzaro,Calabria,Sud,16.66921,38.8705,82.0
+STA.IT2079A,background,urban,Vigevano,Pavia,Lombardia,Nord-ovest,8.845833,45.304444,109.0
+STA.IT2086A,traffic,urban,Rende,Cosenza,Calabria,Sud,16.24334,39.33893,223.0
+STA.IT2087A,background,suburban,Lamezia Terme,Catanzaro,Calabria,Sud,16.29517,38.95955,140.0
+STA.IT2088A,traffic,urban,Crotone,Crotone,Calabria,Sud,17.12285,39.07973,15.0
+STA.IT2089A,background,urban,Catanzaro,Catanzaro,Calabria,Sud,16.57925,38.918288,370.0
+STA.IT2090A,industrial,rural-nearcity,Corigliano-Rossano,Cosenza,Calabria,Sud,16.54677,39.65176,2.0
+STA.IT2091A,traffic,urban,Catanzaro,Catanzaro,Calabria,Sud,16.60832,38.86898,87.0
+STA.IT2092A,traffic,urban,Vibo Valentia,Vibo Valentia,Calabria,Sud,16.09825,38.6758,479.0
+STA.IT2093A,background,urban,Vibo Valentia,Vibo Valentia,Calabria,Sud,16.08024,38.66458,467.0
+STA.IT2094A,background,rural-regional,Mammola,Reggio Calabria,Calabria,Sud,16.23452,38.39092,660.0
+STA.IT2095A,background,rural,Cremona,Cremona,Lombardia,Nord-ovest,10.06924181,45.1095427,36.0
+STA.IT2096A,background,urban,Bolzano/Bozen,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.34197,46.49917,260.0
+STA.IT2097A,background,rural,Alto Reno Terme,Bologna,Emilia-Romagna,Nord-est,10.926111,44.15,811.0
+STA.IT2098A,background,suburban,Monza,Monza e della Brianza,Lombardia,Nord-ovest,9.27611,45.60222,181.0
+STA.IT2099A,background,rural,Giano dell'Umbria,Perugia,Umbria,Centro,12.56611,42.80472,1038.0
+STA.IT2100A,background,suburban,Magione,Perugia,Umbria,Centro,12.205833,43.133056,242.0
+STA.IT2101A,background,suburban,Chieri,Torino,Piemonte,Nord-ovest,7.8375,45.0028,271.0
+STA.IT2102A,traffic,urban,Omegna,Verbano-Cusio-Ossola,Piemonte,Nord-ovest,8.4157,45.8988,259.0
+STA.IT2104A,background,suburban,Valdilana,Biella,Piemonte,Nord-ovest,8.1598,45.6642,666.0
+STA.IT2105A,background,urban,Città di Castello,Perugia,Umbria,Centro,12.245833,43.456944,284.0
+STA.IT2107A,industrial,suburban,Cairo Montenotte,Savona,Liguria,Nord-ovest,8.2838,44.38325,343.0
+STA.IT2108A,industrial,suburban,Cairo Montenotte,Savona,Liguria,Nord-ovest,8.29868,44.37494,344.0
+STA.IT2109A,background,urban,Amelia,Terni,Umbria,Centro,12.419722,42.551944,329.0
+STA.IT2110A,background,urban,Acri,Cosenza,Calabria,Sud,16.3868,39.48963,758.0
+STA.IT2111A,traffic,urban,Martirano Lombardo,Catanzaro,Calabria,Sud,16.23145,39.07497,518.0
+STA.IT2112A,background,suburban,Rocca di Neto,Crotone,Calabria,Sud,17.01034,39.18752,71.0
+STA.IT2113A,background,suburban,Orvieto,Terni,Umbria,Centro,12.136667,42.737222,143.0
+STA.IT2114A,industrial,suburban,Gubbio,Perugia,Umbria,Centro,12.546944,43.3675,623.0
+STA.IT2115A,background,suburban,Morsano al Tagliamento,Pordenone,Friuli-Venezia Giulia,Nord-est,12.9259,45.85693,0.0
+STA.IT2116A,traffic,rural,Cigliano,Vercelli,Piemonte,Nord-ovest,8.0434,45.2948,211.0
+STA.IT2117A,background,suburban,Leini,Torino,Piemonte,Nord-ovest,7.7116,45.1763,246.0
+STA.IT2118A,traffic,urban,Mondovì,Cuneo,Piemonte,Nord-ovest,7.8146,44.4018,409.0
+STA.IT2119A,background,rural,Revello,Cuneo,Piemonte,Nord-ovest,7.4262,44.7197,268.0
+STA.IT2121A,traffic,urban,Borgomanero,Novara,Piemonte,Nord-ovest,8.4584,45.6894,301.0
+STA.IT2128A,background,suburban,Domodossola,Verbano-Cusio-Ossola,Piemonte,Nord-ovest,8.2921,46.1276,281.0
+STA.IT2129A,background,urban,Monfalcone,Gorizia,Friuli-Venezia Giulia,Nord-est,13.52205,45.80518,5.0
+STA.IT2130A,background,rural,Doberdò del Lago-Doberdob,Gorizia,Friuli-Venezia Giulia,Nord-est,13.54308,45.84299,114.0
+STA.IT2131A,background,rural,Grado,Gorizia,Friuli-Venezia Giulia,Nord-est,13.48636,45.73162,0.0
+STA.IT2132A,background,rural,Ronchi dei Legionari,Gorizia,Friuli-Venezia Giulia,Nord-est,13.50112,45.83643,10.0
+STA.IT2133A,background,rural,Fiumicello Villa Vicentina,Udine,Friuli-Venezia Giulia,Nord-est,13.42333,45.79944,4.0
+STA.IT2134A,background,suburban,Narni,Terni,Umbria,Centro,12.52194,42.53417,95.0
+STA.IT2137A,background,suburban,Brindisi,Brindisi,Puglia,Sud,17.95472,40.63139,20.0
+STA.IT2139A,industrial,suburban,Brindisi,Brindisi,Puglia,Sud,17.96055,40.64583,20.0
+STA.IT2140A,traffic,urban,Udine,Udine,Friuli-Venezia Giulia,Nord-est,13.22972,46.07083,116.0
+STA.IT2141A,background,rural,San Severo,Foggia,Puglia,Sud,15.38667,41.63083,150.0
+STA.IT2142A,background,rural,Lucera,Foggia,Puglia,Sud,15.44083,41.54666,150.0
+STA.IT2143A,traffic,suburban,Monopoli,Bari,Puglia,Sud,17.28417,40.96139,15.0
+STA.IT2144A,industrial,suburban,Modugno,Bari,Puglia,Sud,16.766111,41.107778,40.0
+STA.IT2145A,industrial,urban,Modugno,Bari,Puglia,Sud,16.78167,41.08722,55.0
+STA.IT2146A,industrial,suburban,Modugno,Bari,Puglia,Sud,16.78778,41.11444,35.0
+STA.IT2148A,background,suburban,Ceglie Messapica,Brindisi,Puglia,Sud,17.5125,40.64917,100.0
+STA.IT2149A,background,rural,Cisternino,Brindisi,Puglia,Sud,17.41583,40.74278,200.0
+STA.IT2150A,background,rural,Surbo,Lecce,Puglia,Sud,18.125,40.40333,100.0
+STA.IT2151A,background,suburban,Torchiarolo,Brindisi,Puglia,Sud,18.04722,40.48944,50.0
+STA.IT2152A,background,suburban,Torviscosa,Udine,Friuli-Venezia Giulia,Nord-est,13.2714,45.82199,3.0
+STA.IT2153A,background,urban,Signa,Firenze,Toscana,Centro,11.09778,43.79306,41.0
+STA.IT2154A,background,urban,Piombino,Livorno,Toscana,Centro,10.52417,42.93194,40.0
+STA.IT2155A,background,rural-nearcity,Cengio,Savona,Liguria,Nord-ovest,8.20604,44.39703,450.0
+STA.IT2156A,traffic,urban,Reggio nell'Emilia,Reggio nell'Emilia,Emilia-Romagna,Nord-est,10.622778,44.700278,59.0
+STA.IT2158A,background,rural,San Leo,Rimini,Emilia-Romagna,Nord-est,12.401667,43.908056,540.0
+STA.IT2159A,background,suburban,L'Aquila,L'Aquila,Abruzzo,Sud,13.48944,42.33,584.0
+STA.IT2160A,background,rural,L'Aquila,L'Aquila,Abruzzo,Sud,13.35083,42.41278,794.0
+STA.IT2161A,background,suburban,Castel di Sangro,L'Aquila,Abruzzo,Sud,14.10361,41.77944,803.0
+STA.IT2162A,background,urban,Teramo,Teramo,Abruzzo,Sud,13.72611,42.66556,228.0
+STA.IT2163A,background,rural,Sant'Eufemia a Maiella,Pescara,Abruzzo,Sud,14.02889,42.11944,913.0
+STA.IT2164A,background,rural,Cepagatti,Pescara,Abruzzo,Sud,14.06778,42.35806,132.0
+STA.IT2165A,background,suburban,Ortona,Chieti,Abruzzo,Sud,14.35583,42.29306,201.0
+STA.IT2166A,background,urban,Chieti,Chieti,Abruzzo,Sud,14.13778,42.34611,50.0
+STA.IT2167A,background,suburban,Francavilla al Mare,Chieti,Abruzzo,Sud,14.27917,42.42139,6.0
+STA.IT2168A,background,urban,Torino,Torino,Piemonte,Nord-ovest,7.6491,45.0249,243.0
+STA.IT2169A,background,rural,Bagnaria Arsa,Udine,Friuli-Venezia Giulia,Nord-est,13.30197,45.84208,3.0
+STA.IT2170A,background,rural,Torviscosa,Udine,Friuli-Venezia Giulia,Nord-est,13.26222,45.81083,0.0
+STA.IT2171A,traffic,urban,Civitavecchia,Roma,Lazio,Centro,11.795408,42.094128,20.0
+STA.IT2172A,traffic,urban,Civitavecchia,Roma,Lazio,Centro,11.79834,42.099296,33.0
+STA.IT2173A,background,urban,Gaeta,Latina,Lazio,Centro,13.57049,41.223084,3.0
+STA.IT2174A,traffic,urban,Latina,Latina,Lazio,Centro,12.891731,41.451131,21.0
+STA.IT2175A,background,urban,Civita Castellana,Viterbo,Lazio,Centro,12.413195,42.301812,145.0
+STA.IT2177A,traffic,urban,San Benedetto del Tronto,Ascoli Piceno,Marche,Centro,13.87944,42.94444,7.0
+STA.IT2178A,background,rural,Lillianes,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.84355,45.63353,667.0
+STA.IT2179A,background,urban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.30991,45.73081,583.0
+STA.IT2180A,background,suburban,Bojano,Campobasso,Molise,Sud,14.481163,41.484488,482.0
+STA.IT2181A,background,rural,Grado,Gorizia,Friuli-Venezia Giulia,Nord-est,13.54163,45.72765,0.0
+STA.IT2182A,background,suburban,Malborghetto Valbruna,Udine,Friuli-Venezia Giulia,Nord-est,13.47479,46.51005,771.0
+STA.IT2183A,background,urban,Livorno,Livorno,Toscana,Centro,10.3327,43.5689,8.0
+STA.IT2184A,traffic,urban,Siena,Siena,Toscana,Centro,11.325,43.3378,316.0
+STA.IT2200A,traffic,suburban,Sacile,Pordenone,Friuli-Venezia Giulia,Nord-est,12.50168,45.95092,20.0
+STA.IT2201A,traffic,urban,Pordenone,Pordenone,Friuli-Venezia Giulia,Nord-est,12.65594,45.96262,30.0
+STA.IT2202A,industrial,suburban,Grumento Nova,Potenza,Basilicata,Sud,15.89143,40.288391,735.0
+STA.IT2203A,industrial,rural,Viggiano,Potenza,Basilicata,Sud,15.900698,40.334862,820.0
+STA.IT2204A,industrial,rural,Viggiano,Potenza,Basilicata,Sud,15.867364,40.324234,603.0
+STA.IT2205A,industrial,rural,Viggiano,Potenza,Basilicata,Sud,15.9548,40.315619,690.0
+STA.IT2206A,background,rural-nearcity,Gela,Caltanissetta,Sicilia,Isole,14.344965,37.022486,0.0
+STA.IT2207A,background,urban,Gela,Caltanissetta,Sicilia,Isole,14.223844,37.075693,0.0
+STA.IT2209A,background,urban,Faenza,Ravenna,Emilia-Romagna,Nord-est,11.873396,44.285612,35.0
+STA.IT2210A,industrial,suburban,Solofra,Avellino,Campania,Sud,14.82459,40.83555,303.0
+STA.IT2211A,industrial,suburban,Acerra,Napoli,Campania,Sud,14.401,40.97971,29.0
+STA.IT2212A,background,urban,San Vitaliano,Napoli,Campania,Sud,14.48133,40.92431,31.0
+STA.IT2213A,background,suburban,Cava de' Tirreni,Salerno,Campania,Sud,14.70244,40.71099,191.0
+STA.IT2214A,traffic,urban,Nocera Inferiore,Salerno,Campania,Sud,14.64345,40.7404,48.0
+STA.IT2215A,background,suburban,Benevento,Benevento,Campania,Sud,14.83614,41.14691,128.0
+STA.IT2216A,background,suburban,Casoria,Napoli,Campania,Sud,14.29866,40.91463,57.0
+STA.IT2217A,background,suburban,Torre Annunziata,Napoli,Campania,Sud,14.43815,40.7606,45.0
+STA.IT2218A,traffic,suburban,San Felice a Cancello,Caserta,Campania,Sud,14.42397,40.99052,39.0
+STA.IT2219A,background,urban,Acerra,Napoli,Campania,Sud,14.36981,40.94108,27.0
+STA.IT2220A,industrial,suburban,Pignataro Maggiore,Caserta,Campania,Sud,14.15079,41.16857,45.0
+STA.IT2221A,industrial,urban,Napoli,Napoli,Campania,Sud,14.20567,40.84495,83.0
+STA.IT2222A,industrial,suburban,Sparanise,Caserta,Campania,Sud,14.09215,41.18529,59.0
+STA.IT2223A,industrial,suburban,Volla,Napoli,Campania,Sud,14.34998,40.8864,20.0
+STA.IT2224A,industrial,suburban,Teverola,Caserta,Campania,Sud,14.20275,40.99096,29.0
+STA.IT2225A,industrial,suburban,Orta di Atella,Caserta,Campania,Sud,14.28704,40.99513,21.0
+STA.IT2226A,industrial,suburban,Pomigliano d'Arco,Napoli,Campania,Sud,14.38946,40.92087,29.0
+STA.IT2227A,traffic,urban,Avellino,Avellino,Campania,Sud,14.78553,40.91882,357.0
+STA.IT2228A,background,urban,Benevento,Benevento,Campania,Sud,14.77998,41.11575,125.0
+STA.IT2229A,traffic,urban,Sarzana,La Spezia,Liguria,Nord-ovest,9.95503,44.11094,25.0
+STA.IT2230A,background,urban,Viadana,Mantova,Lombardia,Nord-ovest,10.5172,44.92467,26.0
+STA.IT2231A,traffic,urban,Treviso,Treviso,Veneto,Nord-est,12.2161,45.65877,15.0
+STA.IT2232A,background,urban,Cormano,Milano,Lombardia,Nord-ovest,9.16698,45.5476,155.0
+STA.IT2233A,background,urban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.30433,45.73444,583.0
+STA.IT2234A,industrial,suburban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.329645,45.730659,583.0
+STA.IT2239A,background,urban,Bagni di Lucca,Lucca,Toscana,Centro,10.55988,44.00555,130.0
+STA.IT2240A,background,urban,Lucca,Lucca,Toscana,Centro,10.50048,43.83281,13.0
+STA.IT2241A,traffic,urban,Massa,Massa-Carrara,Toscana,Centro,10.13276,44.0311,42.0
+STA.IT2242A,background,urban,Figline e Incisa Valdarno,Firenze,Toscana,Centro,11.46694,43.62303,121.0
+STA.IT2243A,background,urban,Verona,Verona,Veneto,Nord-est,11.030096,45.43301,48.0
+STA.IT2245A,traffic,urban,Belluno,Belluno,Veneto,Nord-est,12.21278,46.14376,403.0
+STA.IT2246A,industrial,suburban,Fiumicino,Roma,Lazio,Centro,12.223404,41.774844,3.0
+STA.IT2247A,background,urban,Fiumicino,Roma,Lazio,Centro,12.237041,41.768234,2.0
+STA.IT2248A,background,rural,Civitavecchia,Roma,Lazio,Centro,11.793172,42.137309,90.0
+STA.IT2249A,background,rural,Civitavecchia,Roma,Lazio,Centro,11.742706,42.159983,11.0
+STA.IT2250A,traffic,urban,Civitavecchia,Roma,Lazio,Centro,11.784396,42.102156,3.0
+STA.IT2251A,background,urban,Civitavecchia,Roma,Lazio,Centro,11.817652,42.098837,124.0
+STA.IT2252A,background,urban,Civitavecchia,Roma,Lazio,Centro,11.809369,42.081792,19.0
+STA.IT2253A,background,urban,Civitavecchia,Roma,Lazio,Centro,11.815903,42.073612,30.0
+STA.IT2254A,background,rural,Allumiere,Roma,Lazio,Centro,11.900004,42.160966,465.0
+STA.IT2255A,background,rural,Tolfa,Roma,Lazio,Centro,11.935607,42.152456,520.0
+STA.IT2257A,background,suburban,Monte Romano,Viterbo,Lazio,Centro,11.894315,42.268585,231.0
+STA.IT2258A,background,suburban,Santa Marinella,Roma,Lazio,Centro,11.833492,42.042434,15.0
+STA.IT2259A,background,suburban,Genova,Genova,Liguria,Nord-ovest,8.79768,44.4284,50.0
+STA.IT2260A,background,rural-nearcity,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.85497,45.64731,366.0
+STA.IT2261A,traffic,urban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.78895,45.65439,24.0
+STA.IT2262A,background,urban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.75605,45.64232,26.0
+STA.IT2263A,industrial,suburban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.78376,45.62062,10.0
+STA.IT2264A,industrial,urban,Civitavecchia,Roma,Lazio,Centro,11.788283,42.096873,9.0
+STA.IT2265A,traffic,urban,Civitavecchia,Roma,Lazio,Centro,11.806455,42.086777,22.0
+STA.IT2266A,traffic,urban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.31563,45.74224,585.0
+STA.IT2267A,background,suburban,Cogne,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.3549222,45.6102216,1.5
+STA.IT2268A,background,urban,Battipaglia,Salerno,Campania,Sud,14.97584,40.61107,70.0
+STA.IT2269A,background,urban,Salerno,Salerno,Campania,Sud,14.80449,40.66142,11.0
+STA.IT2270A,background,urban,Portici,Napoli,Campania,Sud,14.34927,40.81588,75.0
+STA.IT2271A,traffic,urban,Aversa,Caserta,Campania,Sud,14.2114,40.97548,38.0
+STA.IT2272A,background,urban,Pozzuoli,Napoli,Campania,Sud,14.12254,40.82291,39.0
+STA.IT2273A,industrial,suburban,Polla,Salerno,Campania,Sud,15.52825,40.48701,445.0
+STA.IT2274A,background,suburban,Porto Empedocle,Agrigento,Sicilia,Isole,13.532537,37.291894,0.0
+STA.IT2275A,background,urban,Messina,Messina,Sicilia,Isole,15.546512,38.174341,0.0
+STA.IT2276A,background,urban,Ariano Irpino,Avellino,Campania,Sud,15.09675,41.15604,792.0
+STA.IT2277A,background,suburban,Napoli,Napoli,Campania,Sud,14.17941,40.79889,150.0
+STA.IT2278A,traffic,urban,Albisola Superiore,Savona,Liguria,Nord-ovest,8.51196,44.33292,5.0
+STA.IT2279A,traffic,suburban,Bressanone/Brixen,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.63331,46.68756,570.0
+STA.IT2280A,background,urban,Trieste,Trieste,Friuli-Venezia Giulia,Nord-est,13.76608,45.64049,140.0
+STA.IT2281A,background,suburban,Agrigento,Agrigento,Sicilia,Isole,13.593963,37.307047,265.0
+STA.IT2282A,background,urban,Novara,Novara,Piemonte,Nord-ovest,8.6204,45.4397,154.0
+STA.IT2283A,background,rural-regional,Ottati,Salerno,Campania,Sud,15.29873,40.47059,650.0
+STA.IT2284A,industrial,suburban,Aosta,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,7.32189,45.7324,583.0
+STA.IT2285A,background,suburban,Cortina sulla strada del vino/Kurtinig an der Weinstraße,Bolzano/Bozen,Trentino-Alto Adige/Südtirol,Nord-est,11.22324,46.26406,212.0
+STA.IT2286A,industrial,suburban,Vado Ligure,Savona,Liguria,Nord-ovest,8.44565,44.26179,10.0
+STA.IT2287A,background,urban,Palermo,Palermo,Sicilia,Isole,13.346531,38.130696,10.0
+STA.IT2288A,background,urban,Milazzo,Messina,Sicilia,Isole,15.247567,38.231469,10.0
+STA.IT2289A,industrial,urban,Ancona,Ancona,Marche,Centro,13.4923,43.605898,5.0
+STA.IT2290A,background,rural,Guardia Perticara,Potenza,Basilicata,Sud,16.097537,40.364036,720.0
+STA.IT2291A,background,rural,Tricarico,Matera,Basilicata,Sud,16.147441,40.620463,690.0
+STA.IT2292A,background,rural-regional,Pornassio,Imperia,Liguria,Nord-ovest,7.86394,44.08196,950.0
+STA.IT2293A,background,urban,Monfalcone,Gorizia,Friuli-Venezia Giulia,Nord-est,13.5445,45.80296,0.0
+STA.IT2294A,background,suburban,Cavallermaggiore,Cuneo,Piemonte,Nord-ovest,7.6853,44.7043,284.0
+STA.IT2297A,background,urban,Palermo,Palermo,Sicilia,Isole,13.34653,38.105096,10.0
+STA.IT2298A,background,suburban,Masone,Genova,Liguria,Nord-ovest,8.70463,44.50842,380.0
+STA.IT2299A,background,urban,Cairo Montenotte,Savona,Liguria,Nord-ovest,8.28096,44.39951,330.0
+STA.IT2301A,background,urban,Brescia,Brescia,Lombardia,Nord-ovest,10.25637,45.50867,124.0
+STA.IT2303A,industrial,suburban,Bergeggi,Savona,Liguria,Nord-ovest,8.44256,44.25306,230.0
+STA.IT2304A,industrial,rural,Savona,Savona,Liguria,Nord-ovest,8.41,44.37759,730.0
+STA.IT2305A,background,rural,Tolfa,Roma,Lazio,Centro,11.9235,42.152861,458.0
+STA.IT2306A,background,urban,Agrigento,Agrigento,Sicilia,Isole,13.589904,37.306413,235.4
+STA.IT2307A,background,suburban,Agrigento,Agrigento,Sicilia,Isole,13.551601,37.29924,96.3
+STA.IT2308A,background,urban,Bagheria,Palermo,Sicilia,Isole,13.504103,38.086111,51.0
+STA.IT2309A,background,suburban,Barcellona Pozzo di Gotto,Messina,Sicilia,Isole,15.231209,38.16029,34.6
+STA.IT2310A,traffic,urban,Caltanissetta,Caltanissetta,Sicilia,Isole,14.05111,37.489848,585.5
+STA.IT2311A,traffic,urban,Catania,Catania,Sicilia,Isole,15.075233,37.511594,46.4
+STA.IT2312A,background,urban,Gela,Caltanissetta,Sicilia,Isole,14.261254,37.065105,7.0
+STA.IT2313A,background,rural-remote,Lampedusa e Linosa,Agrigento,Sicilia,Isole,12.597921,35.502802,20.0
+STA.IT2314A,background,urban,Pozzallo,Ragusa,Sicilia,Isole,14.838651,36.729474,15.8
+STA.IT2315A,background,suburban,San Giovanni la Punta,Catania,Sicilia,Isole,15.101062,37.578669,333.6
+STA.IT2316A,background,suburban,Solarino,Siracusa,Sicilia,Isole,15.131752,37.096276,129.4
+STA.IT2317A,background,suburban,Siracusa,Siracusa,Sicilia,Isole,15.268014,37.085751,68.0
+STA.IT2318A,background,rural-regional,Trapani,Trapani,Sicilia,Isole,12.71802,37.882476,186.0
+STA.IT2319A,traffic,urban,Venezia,Venezia,Veneto,Nord-est,12.323133,45.435565,1.0
+STA.IT2320A,industrial,suburban,Zermeghedo,Vicenza,Veneto,Nord-est,11.378242,45.478414,133.0
+STA.IT2324A,background,urban,Gorizia,Gorizia,Friuli-Venezia Giulia,Nord-est,13.616127,45.936478,79.0

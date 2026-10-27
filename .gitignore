@@ -7,3 +7,4 @@ _venv
 /data/processed/daily_indices.csv.gz
 /data/processed/reliability/
 /data/processed/reliability/
+git-filter-repo.py

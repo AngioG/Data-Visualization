@@ -6,3 +6,4 @@ _venv
 /data/processed/raw.csv
 /data/processed/daily_indices.csv.gz
 /data/processed/reliability/
+/data/processed/reliability/

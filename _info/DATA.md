@@ -174,3 +174,12 @@ ISTAT field definitions establish `COD_CM`, `COMUNE_A`, `CC_UTS` and geometry un
 [EEA CO]: https://www.eea.europa.eu/en/analysis/maps-and-charts/carbon-monoxide-8-hour-mean-limit-value-for-the-protection-of-human-health-5
 [ECMWF wind]: https://confluence.ecmwf.int/pages/viewpage.action?pageId=133262398
 [ECMWF accumulation]: https://confluence.ecmwf.int/pages/viewpage.action?pageId=501029136
+
+## Data dictionary qualifications
+
+PM25 in data_dictionary.md is an alias for source PM2.5. data_dictionary.md
+lists seven selected pollutants and excludes NH₃. Its stated 50% coverage default
+differs from the preparation notebook's 33% setting (`MIN_COVERAGE = 0.33` in
+00_prepare.ipynb); confirm the actual configuration before using its aggregates.
+Its older notebook/output names are not authoritative locations. Wind labels, LAI
+and radiation descriptions remain subject to the source definitions above.

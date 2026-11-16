@@ -8,3 +8,4 @@ _venv
 /data/processed/reliability/
 /data/processed/reliability/
 git-filter-repo.py
+/outputs/
